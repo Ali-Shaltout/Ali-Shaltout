@@ -93,9 +93,8 @@
 <h2>Get In Touch</h2>
 
 <p>
-  <b>Email</b> · <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a><br/>
-  <b>LinkedIn</b> · <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">YOUR_LINKEDIN</a><br/>
-  <b>Twitter</b> · <a href="https://twitter.com/YOUR_TWITTER">@YOUR_TWITTER</a>
+  <b>Email</b> · <a href="mailto:alishaltout88.lt@gmail.com">Email me</a><br/>
+  <b>LinkedIn</b> · <a href="https://www.linkedin.com/in/in/alishaltout/">Let's meetup</a><br/>
 </p>
 
 ---
@@ -104,22 +103,12 @@
 
 <ul>
   <li>Building MVPs on no-code and code stacks</li>
-  <li>Product strategy and GTM sprints</li>
+  <li>Product Managment and Product strategy</li>
   <li>AI agent prototypes and evaluations</li>
   <li>Mentoring founders on execution</li>
 </ul>
 
 ---
-
-<h2>Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" />
-</p>
-
 <!-- Notes
 1) Replace placeholders with your details.
 2) Keep the projects list up to date.
